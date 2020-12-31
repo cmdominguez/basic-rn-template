@@ -1,9 +1,9 @@
 {
   "name": "react-native-basic-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native basic template",
   "author": "Mariano Dominguez <mariano1491@gmail.com>",
   "repository": {
-    "url": "https://github.com/cmdominguez/react-native-basic-template"
+    "url": "https://github.com/cmdominguez/basic-rn-template"
   }
 }
